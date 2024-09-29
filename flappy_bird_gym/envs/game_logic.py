@@ -37,7 +37,7 @@ from typing import Dict, Tuple, Union
 import pygame
 
 ############################ Speed and Acceleration ############################
-PIPE_VEL_X = -4
+PIPE_VEL_X = -3
 
 PLAYER_MAX_VEL_Y = 10  # max vel along Y, max descend speed
 PLAYER_MIN_VEL_Y = -8  # min vel along Y, max ascend speed
